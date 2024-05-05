@@ -1,3 +1,9 @@
+# Controls 
+
+This is a Game Boy Color ROM that acts as a digital business card of sorts.
+
+Use the arrow keys or start/select to navigate between pages!
+
 # binjgb
 
 Fork of binji's Game Boy emulator built as a WebAssembly module.
